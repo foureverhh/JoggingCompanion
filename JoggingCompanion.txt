@@ -1,0 +1,26 @@
+
+Med GPS och Database
+
+Funktioner:
+
+
+1.Skapa konto, multi användare  
+  
+	//QR—code
+
+2.Närvarande platsen visning
+
+       //Delar min plats till mina vänner om jag låter det.
+
+3.Spara sport report
+	
+        spår
+	kilometer, varje gång och somliga
+	tid
+        exempel ：/Users/foureverhh/Desktop/IMG_1138.PNG
+
+4.sport påminnelsen
+
+	maskin läser upp Du har sprungit 1 km på 6 minuter
+	man får välja efter några kilometer hur lång avstånd man kan få påminnelser
+
