@@ -26,6 +26,4 @@
 
 ### 4.Data sharing
 <img src = "file.md/public.PNG" width = 200>
-![Details](file.md/publicDetai.PNG)
-details
 <img src = "file.md/publicDetai.PNG" width =200>
