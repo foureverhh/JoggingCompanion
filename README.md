@@ -20,6 +20,7 @@
 
 #### 2.2 Trace record
 <img src = "file.md/own%20Detail.PNG" width = 200>
+<img src = "file.md/exampel.PNG" width =200>
 
 ### 3.Reminder - SpeechToText
 <img src = "file.md/reminder.PNG" width = 200>
