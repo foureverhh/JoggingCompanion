@@ -2,7 +2,7 @@
 
 ## Functions planed
  1. Sign in and sign up
- 2. Gps tracing
+ 2. Gps tracking
  3. Reminder - SpeechToText
  4. Data sharing
  
